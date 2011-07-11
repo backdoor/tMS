@@ -1,0 +1,16 @@
+<div id="topBar">
+    <table width="100%"><tr><td align="left">{{= title }}</td><td align="right">
+		<div class="intrfButton" title="{{= mtxtClose}}" onclick="closeWinStream();">
+		    <img width="10px" src="{{= mimgbrPrev}}" />
+		</div>
+	    </td></tr></table></div>
+<div id="subBar">
+    <div style="margin:0px 8px 8px 0;padding-top:16px;">
+	<input type="button" class="waveButtonNewWave" value="{{= mtxtCreateStream}}" onclick="addNewWave()" />
+	<input type="text" id="searchSiteWave" name="search_box" />
+    </div>
+</div>
+<div id="commentAreaListWaves" class="wavescroll">
+    <!-- ТЕЛО СПИСКА -->
+</div>
+<div id="bottomBar"></div>

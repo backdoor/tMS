@@ -1,0 +1,70 @@
+/*
+  Copyright (c) 2011, theMeStream.  This file is
+  licensed under the Affero General Public License version 3 or later.  See
+  the COPYRIGHT.txt file.
+*/
+
+#page{
+    width:660px;
+    margin:80px auto 130px;
+}
+
+#slideshow{
+    height:169px;
+    overflow:hidden;
+    width:454px;
+}
+
+#slideshowContainer{
+    padding:10px;
+    background-color:#E5ECF9;
+    /*margin:40px 0 50px -160px;*/
+    width:640px;
+    /*border:1px solid #E4F1FF;*/
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    border-radius:3px;
+}
+
+#textvisual {
+    font-size:20px;
+    /*margin-left:105px;*/
+    margin-left:25px;
+    /*margin-right:5px;
+    margin-top:50px;*/
+    background-color:#87B4C8;
+    color:#FFF;
+    display:block;
+    /*height:31px;*/
+    /*width:450px;*/
+    padding:10px;
+    position:relative;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    border-radius:3px;
+}
+
+#textvisual_2 {
+    font-size:20px;
+    /*margin-left:105px;*/
+    margin-left:25px;
+    /*margin-right:5px;
+    margin-top:50px;*/
+    background-color:#87B4C8;
+    color:#FFF;
+    display:block;
+    /*height:31px;*/
+    /*width:450px;*/
+    padding:10px;
+    position:relative;
+    -moz-border-radius:30px 0 30px 0;
+    -webkit-border-radius:30px 0 30px 0;
+    border-radius:30px 0 30px 0;
+}
+
+#err {
+    background-color:#900;
+}
+#success {
+    background-color:#090;
+}

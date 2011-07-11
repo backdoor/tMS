@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
+   height="64px"
+   id="svg31664"
+   sodipodi:version="0.32"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="support.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="support_help.png"
+   inkscape:export-xdpi="84.375"
+   inkscape:export-ydpi="84.375"
+   version="1.1">
+  <defs
+     id="defs31666">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective18" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.5"
+     inkscape:cx="-3.5454545"
+     inkscape:cy="36.234802"
+     inkscape:current-layer="g31652"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="853"
+     inkscape:window-x="-4"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata31669">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       id="g31652"
+       transform="matrix(4.0000052,0,0,4.0000052,-1128.0015,-676.00096)">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot2843"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#444444;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         transform="matrix(0.28616104,0,0,0.28616104,283.77084,164.27815)"><flowRegion
+           id="flowRegion2845"><rect
+             id="rect2847"
+             width="100.18182"
+             height="104.72728"
+             x="0"
+             y="0"
+             style="fill:#444444;fill-opacity:1" /></flowRegion><flowPara
+           id="flowPara2849"
+           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#444444;fill-opacity:1;font-family:Arial Black;-inkscape-font-specification:'Arial Black, Bold'">?</flowPara></flowRoot>    </g>
+  </g>
+</svg>

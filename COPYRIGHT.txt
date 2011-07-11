@@ -1,0 +1,8 @@
+theMeStream is copyright Dmitri Kornienko, 2011, and files herein are licensed
+under the Affero General Public License version 3, the text of which can
+be found in GNU-AGPL-3.0.txt, or any later version of the AGPL, unless otherwise
+noted.  Components of theMeStream, including JQuery, JQuery plugins, and 
+JQuery UI are licensed under the MIT/X11 license.  OpenInviter is licensed 
+under a GPL version 2.  All unmodified files from these and other sources retain
+their original copyright and license notices: see the relevant individual files.
+Attribution information for theMeStream is contained in the AUTHORS.txt file.

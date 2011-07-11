@@ -1,0 +1,27 @@
+#  Copyright (c) 2011, theMeStream.  This file is
+#  licensed under the Affero General Public License version 3 or later.  See
+#  the COPYRIGHT.txt file.
+
+
+AddDefaultCharset utf-8
+AddCharset utf-8 *
+
+ErrorDocument 404 http://theMeStream.ru
+
+<IfModule mod_rewrite.c>
+    # Redirect attempts to access the install script.
+    RewriteEngine On
+
+    # уберем навсега из имени нашего хоста www. 
+    RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+    RewriteRule ^(.*)$ http://%1/$1 [R=301]
+
+    RewriteRule ^index.php.*$ / [R]
+    RewriteRule ^$ client/index.php
+
+    # если кто-то захочет скачать наш Sitemap.xml (без Редиректа, скрыто) 
+    # отдаем ему распечатку файла sitemap.php 
+    RewriteCond %{REQUEST_URI} ^/Sitemap\.xml$ [NC]
+    RewriteRule ^.* /sitemap.php [L]
+
+</IfModule>

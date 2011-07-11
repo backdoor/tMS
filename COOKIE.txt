@@ -1,0 +1,12 @@
+profileUserActive - ID профиля который просматриваем
+wactwave - ID активной потока(волны)
+tsm - (type stream me) Тип открытого потока мой?! (-1 - вообще нет, 0-основной, 1-слежу, 2-архив, 3-спам, 4-корзина)
+wactblip - ID активного блипа
+viewYNContacts - Y/N показывать или не показывать список контактов
+userMeGMT - Время GMT моего профиля
+profileUserMe - ID моего профиля
+profileUserAva - Аватарка активного пользователя
+profileUserName - Логин активного пользователя
+navigMenuAct - Активный навигационный элемент меню {stream[поток], profile[профиль], friendreqs[запросы на дружбу], feed[лента], spam[спам], following[слежу], trash[корзина], widget[приложения]}
+tmslocale - язык интерфейса пользователя
+tmsclntver - тип/версия клиента

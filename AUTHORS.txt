@@ -1,0 +1,7 @@
+theMeStream is written by:
+  Dmitri Kornienko
+
+With help from many libraries and frameworks including:
+  JQuery
+  OpenInviter
+  and others
